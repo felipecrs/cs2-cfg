@@ -5,5 +5,5 @@ My CS:GO cfg.
 ## Launch options
 
 ```
--novid -nojoy -high +exec autoexec
+-novid -nojoy -high -fullscreen -tickrate 128 +exec autoexec
 ```

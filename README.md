@@ -19,5 +19,5 @@ New-Item -ItemType SymbolicLink -Path "C:\Program Files (x86)\Steam\steamapps\co
 ## Launch options
 
 ```
--novid -nojoy -high -windowed -noborder +exec autoexec
+-high +exec autoexec
 ```
